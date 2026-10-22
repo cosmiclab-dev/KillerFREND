@@ -1,34 +1,33 @@
-# Awwwards taxonomy
+# Design taxonomy
 
-The site's own vocabulary, taken from the navigation of
-https://www.awwwards.com/websites/ on 2026-10-22. 393
-links were extracted; the groups below are the site's, not ours.
+The vocabulary used to describe awarded web design: sectors, style tags, technology tags,
+countries and typefaces.
 
-Use this to pick a study target. If you want to know how a category behaves, open that
-URL and read the winners, rather than guessing from the name.
+Use this to pick a study target. Choose a sector and a style, then read winners in that
+combination rather than guessing what a label means.
 
 ## Award ranks
 
-- Sites of the Day — https://www.awwwards.com/websites/sites_of_the_day
-- Sites of the Month — https://www.awwwards.com/websites/sites_of_the_month
-- Sites of the Year — https://www.awwwards.com/websites/sites_of_the_year
+- Sites of the Day
+- Sites of the Month
+- Sites of the Year
 
 ## Award types
 
-- Developer — https://www.awwwards.com/websites/developer
-- Honorable Mention — https://www.awwwards.com/websites/honorable
-- Nominees — https://www.awwwards.com/websites/nominees
+- Developer
+- Honorable Mention
+- Nominees
 
 ## Honors categories
 
 An annual category award, separate from the daily and monthly ranks.
 
-- Typography Honors — https://www.awwwards.com/websites/winner_category_typography
-- No-code Honors — https://www.awwwards.com/websites/winner_category_no-code
-- E-commerce Honors — https://www.awwwards.com/websites/winner_category_ecommerce
-- Product Honors — https://www.awwwards.com/websites/winner_category_product
-- Portfolio Honors — https://www.awwwards.com/websites/winner_category_portfolio
-- Business & Services Honors — https://www.awwwards.com/websites/winner_category_business-services
+- Typography Honors
+- No-code Honors
+- E-commerce Honors
+- Product Honors
+- Portfolio Honors
+- Business & Services Honors
 
 ## Sectors (27)
 
@@ -63,14 +62,6 @@ This list stops at "Arvo". The menu is a scrollable index and only the first sli
 through the reader, so it covers A and B only. Do not read 64 as the size of the index.
 
 Aeonik, Arial, ABC, Avenir, Aktiv, AT, Apercu, Barlow, Archivo, Acumin, Anton, Assistant, Akzidenz, Akkurat, Austin, Adobe, Averta, Adieu, Almarena, Ano, Agrandir, Azeret Mono, Albert Sans, Antonio, Ayer, Arapey, Archia, Aventa, Almarai, Area Normal, Axiforma, Bai Jamjuree, Acid Grotesk, Akrobat, Alata, Albra, Amatic SC, Ambit, Antarctica, Anybody, Area, Aspekta, Abel, Abril Fatface, Adelle, Alegreya, Alliance No 2, Allura, Alte Haas Grotesk, Americana, Archivo Black, Arges, Arimo, BW Haas Text Mono A-55 Roman, BWHaasGrotesk-55Roman-Web, BWHaasGrotesk-75Bold-Web, Bagnard, Baloo 2, Basel Grotesk, Abhaya Libre, Alegreya Sans, Antic Didone, Aleo, Arvo
-
-## How to use a tag page
-
-`https://www.awwwards.com/websites/<slug>/` lists work for that tag. Slugs are the
-lowercase hyphenated label in most cases, but not all: the site uses
-`winner_category_typography` for an honors category and keeps
-capitalisation and spaces encoded for countries and fonts. Copy the URL from the list
-above instead of building it.
 
 ## Limits
 

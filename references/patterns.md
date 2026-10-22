@@ -82,5 +82,5 @@ Steal the *move*, not the surface.
   fixes hierarchy and states.
 - Hard rules on contrast, focus and tap targets: `antislop-ui` and `antislop-human`.
 - Scoring a site against a jury standard: `jury`.
-- Building the thing: the `awwwards` skill in this library holds the implementation
-  references (layout, type, motion, WebGL, Next.js, Astro).
+- Building the thing: a build-oriented design skill in this library, if installed, holds
+  the implementation references (layout, type, motion, WebGL, Next.js, Astro).
