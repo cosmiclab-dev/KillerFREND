@@ -70,7 +70,7 @@ Do not load all of them. Pick the one that owns the current decision.
 | `references/taxonomy.md` | sectors, style tags, technology tags, countries, fonts |
 | `references/patterns.md` | what awarded work shares, and how to read it |
 | `references/api.md` | the public API, robots policy, etiquette |
-| `references/winners-2026-10-22.md` | 217 dated entries from five listing pages |
+| `references/winners-2026-10-22.md` | 217 entries from five listing pages |
 | `references/annual-awards-2026-10-22.md` | 190 annual nominees across six categories |
 | `scripts/refresh.mjs` | rebuild the winner index |
 | `scripts/refresh-api.mjs` | rebuild the annual index from the API |

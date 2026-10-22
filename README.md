@@ -50,7 +50,7 @@ turn looking into a decision.
 | `references/taxonomy.md` | 27 sectors, 54 style tags, 114 technology tags, 122 countries, the font index |
 | `references/patterns.md` | What awarded work shares, how to read a winner, anti-patterns |
 | `references/api.md` | The public API, `robots.txt` policy, request etiquette |
-| `references/winners-2026-10-22.md` | 217 dated entries from five listing pages |
+| `references/winners-2026-10-22.md` | 217 entries from five listing pages |
 | `references/annual-awards-2026-10-22.md` | 190 annual nominees across six categories |
 | `scripts/refresh.mjs` | Rebuild the winner index |
 | `scripts/refresh-api.mjs` | Rebuild the annual index from the public API |
